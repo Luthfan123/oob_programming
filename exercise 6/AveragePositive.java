@@ -67,3 +67,4 @@ enter new number:
 5
 average of N positive integers : 3
 */
+//Verified

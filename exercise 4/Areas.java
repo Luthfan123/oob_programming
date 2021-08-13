@@ -61,5 +61,5 @@ Enter Height of Triangle  : 5
 Area of Triangle        : 10.0
 
 */
-
+//Verified
 

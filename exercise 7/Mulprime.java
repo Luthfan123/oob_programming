@@ -104,3 +104,4 @@ Multiplication:6*5=30
 Prime Number:11
 Prime Number:13
 */
+Verified

@@ -53,3 +53,4 @@ Removing next element at head :Apple
 Removing last element :Mango
 Resultant deque:[]
 */
+Verified

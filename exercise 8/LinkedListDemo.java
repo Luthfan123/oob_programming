@@ -33,3 +33,4 @@ Original contents in linked list: [J, A, V, A]
 After removing elements in linked list: []
 
 */
+Verified

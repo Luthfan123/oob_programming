@@ -46,4 +46,4 @@ Blue
 enter index position to be removed:1
 Resultant Stack: [Red, Yellow, Green, Blue]
 */
-Verified
+Verified.

@@ -34,3 +34,4 @@ C:\Users\USER\java_pgms\exercise 9>java HashTree
 HASH MAP:{1=Red, 2=Blue, 3=Green, 4=Yellow, 5=Orange, 6=Black}
 Converted TREE MAP = {1=Red, 2=Blue, 3=Green, 4=Yellow, 5=Orange, 6=Black}
 */
+Verified

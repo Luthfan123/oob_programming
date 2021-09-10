@@ -75,3 +75,4 @@ Removing elements in map
 Map before removing elements:{1=Red, 2=Blue, 3=Orange, 4=Green}
 Map after removing elements:{1=Red, 2=Blue, 3=Orange}
 */
+Verified
